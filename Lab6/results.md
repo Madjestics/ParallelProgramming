@@ -10,7 +10,7 @@ Hello everyone\
 [Dima]: Hi\
 [User]: Hi
 
-### Результат работы программы клиента-1:
+### Результат работы программы сервера:
 Connected to the chat server!
 Enter your username:
 Dima
